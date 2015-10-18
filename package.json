@@ -1,0 +1,32 @@
+{
+  "name": "redux-ws",
+  "version": "0.1.0",
+  "description": "Redux middleware for WebSockets communication.",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "rm -rf lib/ && ./node_modules/.bin/babel -d lib/ source/",
+    "prepublish": "npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arturmuller/redux-ws.git"
+  },
+  "keywords": [
+    "redux",
+    "middleware",
+    "websockets",
+    "socket.io"
+  ],
+  "author": "Artur Muller <me@arturmuller.com> (http://arturmuller.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arturmuller/redux-ws/issues"
+  },
+  "homepage": "https://github.com/arturmuller/redux-ws#readme",
+  "devDependencies": {
+    "babel": "^5.8.23",
+    "babel-eslint": "^4.1.3",
+    "eslint": "^1.7.1"
+  }
+}
