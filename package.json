@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arturmuller/redux-ws.git"
+    "url": "git+https://github.com/luskhq/redux-ws.git"
   },
   "keywords": [
     "redux",
@@ -21,9 +21,9 @@
   "author": "Artur Muller <me@arturmuller.com> (http://arturmuller.com)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/arturmuller/redux-ws/issues"
+    "url": "https://github.com/luskhq/redux-ws/issues"
   },
-  "homepage": "https://github.com/arturmuller/redux-ws#readme",
+  "homepage": "https://github.com/luskhq/redux-ws#readme",
   "devDependencies": {
     "babel": "^5.8.23",
     "babel-eslint": "^4.1.3",
