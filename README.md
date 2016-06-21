@@ -1,4 +1,8 @@
-# Redux WebSockets
+# [DEPRECATED] Redux WebSockets
+
+**Use [redux-thunk](https://www.github.com/gaearon/redux-thunk) instead. Since v2.1.0 [identical functionality](https://www.github.com/gaearon/redux-thunk#injecting-a-custom-argument) can be achieved with that package.**
+
+---
 
 [![npm version](https://img.shields.io/npm/v/redux-ws.svg?style=flat-square)](https://www.npmjs.com/package/redux-ws)
 
