@@ -2,6 +2,8 @@
 
 **Use [redux-thunk](https://www.github.com/gaearon/redux-thunk) instead. Since v2.1.0 [identical functionality](https://www.github.com/gaearon/redux-thunk#injecting-a-custom-argument) can be achieved with that package.**
 
+[This article](https://medium.com/@gethylgeorge/using-socket-io-in-react-redux-app-to-handle-real-time-data-c0e734297795) outlines an example of how to use redux-thunk with WebSockets. The implementation can be found in a Github repo, starting on [this file](https://github.com/Gethyl/RealTimeTodo/blob/master/src/js/components/Layout.js). The example uses socket.io, but using web sockets directly should be similar.
+
 ---
 
 [![npm version](https://img.shields.io/npm/v/redux-ws.svg?style=flat-square)](https://www.npmjs.com/package/redux-ws)
